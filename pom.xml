@@ -23,7 +23,7 @@
     <dependencies>
         <dependency>
             <groupId>com.microsoft.azure</groupId>
-            <artifactId>${FunctionApp}</artifactId>
+            <artifactId>$(FunctionApp)</artifactId>
             <version>1.0.0-beta-2</version>
         </dependency>
         <dependency>
